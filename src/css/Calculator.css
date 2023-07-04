@@ -1,0 +1,29 @@
+.calculator-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1.2rem;
+}
+
+.calculator-title {
+  margin: 10px;
+  text-transform: uppercase;
+}
+
+.calculator-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.calculator-textfields {
+  margin: 5px !important;
+}
+
+.calculator-btn {
+  align-self: center;
+  margin-top: 10px !important;
+  max-width: 100px;
+}/*# sourceMappingURL=Calculator.css.map */
