@@ -5,7 +5,7 @@ import TelegramIcon from '@mui/icons-material/Telegram';
 
 const Calculator = () => {
     const [envios, setEnvios] = useState("")
-    const [costoEnvio, setCostoEnvio] = useState(200)
+    const [costoEnvio, setCostoEnvio] = useState(300)
     const [efectivo, setEfectivo] = useState("")
     const [totalEfectivo, setTotalEfectivo] = useState("")
     const [alert, setAlert] = useState(false)
