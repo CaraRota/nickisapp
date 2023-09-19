@@ -28,7 +28,7 @@ const Calculator = () => {
             window.open(url);
             setAlert(false)
             setEnvios("")
-            setCostoEnvio(200)
+            setCostoEnvio(300)
             setEfectivo("")
             setTotalEfectivo("")
         } else {
